@@ -1,2 +1,3 @@
 # advent-of-code-2021
 
+My attempt at advent of code 2021 - please don't look at it too closely...
